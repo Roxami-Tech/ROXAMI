@@ -30,8 +30,8 @@ We welcome developers, contributors, and enthusiasts who share our vision.
 
 ## 🌐 Connect With Us
 
-- Website: https://roxami.github.io
-- GitHub: https://github.com/roxami
+- Website: https://roxami-tech.github.io/
+- GitHub: https://github.com/Roxami-Tech
 
 ## 💙 Our Philosophy
 
