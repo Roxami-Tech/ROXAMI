@@ -15,7 +15,7 @@ To make everyday technology simpler, more accessible, and freely available throu
 | Application | Description | Status |
 |---|---|---|
 | Nuvote | Notes and Tasks | Available |
-| Roxami Expense | Expense Tracker | Planned |
+| Expenso | Expense Tracker | Available|
 | Roxami Calendar | Calendar | Planned |
 | Roxami Clock | Clock and Alarm | Planned |
 
